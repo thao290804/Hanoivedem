@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/Hanoivedem/static/css/main.37a59366.css",
-    "main.js": "/Hanoivedem/static/js/main.45a680c4.js",
+    "main.css": "/Hanoivedem/static/css/main.36c3664f.css",
+    "main.js": "/Hanoivedem/static/js/main.bbd05ca3.js",
+    "static/media/7.jpg": "/Hanoivedem/static/media/7.a1c7e34fd43d57d30843.jpg",
     "static/media/5.jpg": "/Hanoivedem/static/media/5.1e640f7bacc0b5a7e8e1.jpg",
     "static/media/6.jpg": "/Hanoivedem/static/media/6.eb536aafd04e1c3a670c.jpg",
-    "static/media/7.jpg": "/Hanoivedem/static/media/7.a1c7e34fd43d57d30843.jpg",
     "static/media/4.jpg": "/Hanoivedem/static/media/4.80af8ec5bac55eff1144.jpg",
     "static/media/3.jpg": "/Hanoivedem/static/media/3.c4044fdc20f6d3e8b078.jpg",
+    "static/media/home.jpg": "/Hanoivedem/static/media/home.cf73799acb80179ddf00.jpg",
     "static/media/2.jpg": "/Hanoivedem/static/media/2.ddf0c187fc076f16d0e4.jpg",
     "static/media/1.jpg": "/Hanoivedem/static/media/1.e457e0c7f3982089eb0c.jpg",
     "static/media/location.png": "/Hanoivedem/static/media/location.e1188e5368fb0448944f.png",
     "index.html": "/Hanoivedem/index.html",
-    "main.37a59366.css.map": "/Hanoivedem/static/css/main.37a59366.css.map",
-    "main.45a680c4.js.map": "/Hanoivedem/static/js/main.45a680c4.js.map"
+    "main.36c3664f.css.map": "/Hanoivedem/static/css/main.36c3664f.css.map",
+    "main.bbd05ca3.js.map": "/Hanoivedem/static/js/main.bbd05ca3.js.map"
   },
   "entrypoints": [
-    "static/css/main.37a59366.css",
-    "static/js/main.45a680c4.js"
+    "static/css/main.36c3664f.css",
+    "static/js/main.bbd05ca3.js"
   ]
 }
